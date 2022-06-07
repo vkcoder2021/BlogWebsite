@@ -6,9 +6,15 @@ Starting version of Blog website developed using Node. Js, Express. Js, EJS, CSS
 Hii ,My name is Vikash Kumar .
 
 MERN STACK DEVELOPER 
+
 MECHANICAL ENGINEER 
+
+BENGALURU
+
 RANCHI ,JHARKHAND
+
 Karnataka State Rank 20 
+
 TOPPER 
 
 
