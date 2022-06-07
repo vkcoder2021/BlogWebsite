@@ -5,15 +5,15 @@ Starting version of Blog website developed using Node. Js, Express. Js, EJS, CSS
 
 Hii ,My name is Vikash Kumar .
 
-MERN STACK DEVELOPER 
+MERN STACK DEVELOPER,
 
-MECHANICAL ENGINEER 
+MECHANICAL ENGINEER ,
 
-BENGALURU
+BENGALURU,
 
 RANCHI ,JHARKHAND
-
-Karnataka State Rank 20 
+Cracked JEE MAINS ,COMEDK Appeared in JEE ADVANCE,
+Karnataka State Rank 20 ,
 
 TOPPER 
 
